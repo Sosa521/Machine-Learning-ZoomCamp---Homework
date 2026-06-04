@@ -11,6 +11,8 @@ gunicorn = "*"
 requests = "*"
 
 [dev-packages]
+awscli = "*"
+awsebcli = "*"
 
 [requires]
 python_version = "3.12"
